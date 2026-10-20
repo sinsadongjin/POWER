@@ -2,9 +2,9 @@
 
 칼스 캘린더 앱 배포용 공개 저장소. 최신 설치 파일과 버전 정보만 둡니다.
 
-**📥 [최신 버전 받기](https://github.com/sinsadongjin/POWER/raw/main/WorkClock-0.12.apk)**  
-칼스 캘린더 0.12 · WorkClock-0.12.apk  
-[예비 링크 (jsDelivr)](https://cdn.jsdelivr.net/gh/sinsadongjin/POWER@main/WorkClock-0.12.apk)
+**📥 [최신 버전 받기](https://github.com/sinsadongjin/POWER/raw/main/WorkClock-1.1.apk)**  
+칼스 캘린더 1.1 · WorkClock-1.1.apk  
+[예비 링크 (jsDelivr)](https://cdn.jsdelivr.net/gh/sinsadongjin/POWER@main/WorkClock-1.1.apk)
 
 1. 위 링크를 눌러 받기 (크롬)
 2. 갤럭시는 설치 전에 **설정 → 보안 및 개인정보 보호 → 자동 차단** 끄기 (설치 뒤 다시 켜도 됨)
