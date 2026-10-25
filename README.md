@@ -9,12 +9,12 @@
 
 파일: `WorkClock-1.02.03.apk`
 
-## 🧪 칼스 테스트 (테스트 앱) — 최신 칼스 테스트 T003
+## 🧪 칼스 테스트 (테스트 앱) — 최신 칼스 테스트 T004
 
-- **[APK 다운로드](https://github.com/sinsadongjin/POWER/raw/test/KalsTest-T003.apk)** (GitHub)
-- **[APK 다운로드 · jsDelivr](https://cdn.jsdelivr.net/gh/sinsadongjin/POWER@370d692653b8ab5dc25648d736ad6267074fd19e/KalsTest-T003.apk)** — GitHub 링크가 안 되거나 느릴 때
+- **[APK 다운로드](https://github.com/sinsadongjin/POWER/raw/test/KalsTest-T004.apk)** (GitHub)
+- **[APK 다운로드 · jsDelivr](https://cdn.jsdelivr.net/gh/sinsadongjin/POWER@8a5736d7b1289930fb0ac12880323fe88fd5e9ca/KalsTest-T004.apk)** — GitHub 링크가 안 되거나 느릴 때
 
-파일: `KalsTest-T003.apk` · 본 앱과 따로 깔리고 기록도 따로예요 ([test 브랜치](https://github.com/sinsadongjin/POWER/tree/test)).
+파일: `KalsTest-T004.apk` · 본 앱과 따로 깔리고 기록도 따로예요 ([test 브랜치](https://github.com/sinsadongjin/POWER/tree/test)).
 
 > jsDelivr: GitHub 저장소 파일을 무료로 빠르게 내려 주는 공개 배포 서비스(CDN). 같은 파일을 다른 서버에서 받는 예비 경로예요.
 
