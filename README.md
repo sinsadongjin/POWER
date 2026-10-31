@@ -5,16 +5,16 @@
 ## 📥 칼스 캘린더 (본 앱) — 최신 칼스 캘린더 1.02.03
 
 - **[APK 다운로드](https://github.com/sinsadongjin/POWER/raw/main/WorkClock-1.02.03.apk)** (GitHub)
-- **[APK 다운로드 · jsDelivr](https://cdn.jsdelivr.net/gh/sinsadongjin/POWER@6dfbee3d365785db4ecdebf855ff9d3312a9996e/WorkClock-1.02.03.apk)** — GitHub 링크가 안 되거나 느릴 때
+- **[APK 다운로드 · jsDelivr](https://cdn.jsdelivr.net/gh/sinsadongjin/POWER@b3e3b4bd810de0d6002abb98a02ce8877c5c135c/WorkClock-1.02.03.apk)** — GitHub 링크가 안 되거나 느릴 때
 
 파일: `WorkClock-1.02.03.apk`
 
-## 🧪 칼스 테스트 (테스트 앱) — 최신 칼스 테스트 T005
+## 🧪 칼스 테스트 (테스트 앱) — 최신 칼스 테스트 T006
 
-- **[APK 다운로드](https://github.com/sinsadongjin/POWER/raw/test/KalsTest-T005.apk)** (GitHub)
-- **[APK 다운로드 · jsDelivr](https://cdn.jsdelivr.net/gh/sinsadongjin/POWER@bafe3bae0380ada9fe1f1b713ed98b90add035b8/KalsTest-T005.apk)** — GitHub 링크가 안 되거나 느릴 때
+- **[APK 다운로드](https://github.com/sinsadongjin/POWER/raw/test/KalsTest-T006.apk)** (GitHub)
+- **[APK 다운로드 · jsDelivr](https://cdn.jsdelivr.net/gh/sinsadongjin/POWER@60ffededba7038df6ca3328e4dcf73aefc7634f3/KalsTest-T006.apk)** — GitHub 링크가 안 되거나 느릴 때
 
-파일: `KalsTest-T005.apk` · 본 앱과 따로 깔리고 기록도 따로예요 ([test 브랜치](https://github.com/sinsadongjin/POWER/tree/test)).
+파일: `KalsTest-T006.apk` · 본 앱과 따로 깔리고 기록도 따로예요 ([test 브랜치](https://github.com/sinsadongjin/POWER/tree/test)).
 
 > jsDelivr: GitHub 저장소 파일을 무료로 빠르게 내려 주는 공개 배포 서비스(CDN). 같은 파일을 다른 서버에서 받는 예비 경로예요.
 
